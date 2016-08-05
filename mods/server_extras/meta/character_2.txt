@@ -1,0 +1,3 @@
+name = "Samantha",
+author = "MineYoshi",
+description = "Female version of Sam",
