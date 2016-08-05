@@ -1,0 +1,3 @@
+name = "Hoodie Dude",
+author = "MineYoshi",
+description = "Boy with a hoodie",
