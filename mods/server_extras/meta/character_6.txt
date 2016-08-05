@@ -1,0 +1,3 @@
+name = "Blueberry Girl",
+author = "MineYoshi",
+description = "Girl with a nice dress and hair",
